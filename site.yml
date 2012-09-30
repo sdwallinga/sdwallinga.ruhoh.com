@@ -1,10 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Asymptotal Recall
+tagline: 72.8% water, 100% rock and roll
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Sam Wallinga
+  email : samwallinga@gmail.com
+  github : sdwallinga
+  twitter : SamWallinga
   feedburner : feedname
 
 navigation :
